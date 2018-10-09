@@ -1,4 +1,5 @@
 package com.company;
+//Created by Grace Reynolds
 
 public class GReynoldsLib {
     public static boolean isPalindrome(String pal)
